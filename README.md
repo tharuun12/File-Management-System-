@@ -30,16 +30,6 @@ A simple and intuitive file management system built using **React**, **TypeScrip
 ## 🛠️ Project Structure
 
 ```lua
-file-management-system/
-├── eslint.config.js
-├── index.html
-├── package.json
-├── postcss.config.js
-├── tailwind.config.js
-├── tsconfig.app.json
-├── tsconfig.json
-├── tsconfig.node.json
-├── vite.config.ts
 └── src/
     ├── App.css
     ├── App.tsx
