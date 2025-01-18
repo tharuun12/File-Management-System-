@@ -4,11 +4,11 @@ A simple and intuitive file management system built using **React**, **TypeScrip
 
 
 ![image](https://github.com/user-attachments/assets/399ff1e4-38b5-4a35-8ed8-00a5c2ec8283)
-Image Description:The image showcases the Folder Management System in action. It demonstrates:
-A horizontal navigation bar displaying folders for quick access.
-Folder operations, including creating and deleting folders using intuitive buttons.
-The subfolder management section, showing nested folder hierarchy.
-File management features, including file upload, status indicators (Pending and Completed), and actions like upload, cancel, and delete.
+- Image Description:The image showcases the Folder Management System in action. It demonstrates:
+    - A horizontal navigation bar displaying folders for quick access.
+    - Folder operations, including creating and deleting folders using intuitive buttons.
+    - The subfolder management section, showing nested folder hierarchy.
+    - File management features, including file upload, status indicators (Pending and Completed), and actions like upload, cancel, and delete.
 
 
 # Experience the live project here: 🌐 live project - https://file-nests.vercel.app/
